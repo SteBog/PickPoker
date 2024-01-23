@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "423049162614",
+    "firebase_url": "https://pickpoker-db6da-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "pickpoker-db6da",
+    "storage_bucket": "pickpoker-db6da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423049162614:android:18e57df453e3e774859457",
+        "android_client_info": {
+          "package_name": "com.example.pick_poker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423049162614-kvec8a20pphm7dou5dg1dvkj84dorjdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACqr2dSO2PALeGXu_x5GdtbzJDXZigq2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423049162614-kvec8a20pphm7dou5dg1dvkj84dorjdn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "423049162614-l3pchaoupciudf8h5k8ptbscmc10gu8s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pickPoker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

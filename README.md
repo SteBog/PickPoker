@@ -1,4 +1,4 @@
-* A single-player game made in Flutter during the 2020 lockdown. *
+# A single-player game made in Flutter during the 2020 lockdown.
 
 ## 🃏 About the Game
 This is a simple yet engaging single-player card game built using Flutter. The game follows a Poker-based scoring system, where the player:
